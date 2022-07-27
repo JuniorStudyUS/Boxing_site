@@ -1,0 +1,12 @@
+.text_bold{
+font-weight: bold;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #AEC9BE
+
+}
+
+li{
+    margin-bottom: 10px;
+}
